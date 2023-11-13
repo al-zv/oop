@@ -1,4 +1,4 @@
-<img width="180" alt="advanced" src="https://github.com/al-zv/zero/assets/63869857/baab64a2-6051-4e08-9e5e-efd2f1a485b2"># zero
+# zero
 
 Сделать полное описание каждого файла в структуре этого проекта на технологиях: docker/nginx/php/mysql
 

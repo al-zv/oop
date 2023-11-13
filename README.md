@@ -17,9 +17,11 @@ zero/nginx/core - репозиторий для настроек веб-серв
 
 zero/nginx/core/nginx.conf - файл с настройками веб-сервера nginx
 
-zero/nginx/www/app/index.php - индексный файл php для проверки работы docker
 
 zero/nginx/www/app - репозиторий с кодом проекта
+
+zero/nginx/www/app/index.php - индексный файл php для проверки работы docker
+
 
 zero/php - репозиторий с настройками PHP для docker
 

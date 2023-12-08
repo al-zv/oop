@@ -28,3 +28,9 @@ zero/nginx/www/app/index.php - индексный файл php для прове
 zero/php - репозиторий с настройками PHP для docker
 
 zero/php/Dockerfile - файл с настройками PHP для docker
+
+### <a name="21">1. Инструкция по запуску проекта</a> 
+
+Скачать с GitHub
+
+    git clone https://github.com/al-zv/zero.git

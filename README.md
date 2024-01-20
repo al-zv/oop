@@ -12,6 +12,11 @@ docker exec -it oop-php-1 bash
 В контейнере вводим команду:
 php init
 
+Проверить настройки БД (имя БД, логин, пароль):
+/path/to/yii-application/common/config/main-local.php
+
+Проверить подключение базе данных
+
 # zero
 
 Это чистый проект на технологиях docker/nginx/php/mysql. Необходим для разработки нового проекта с нуля на docker.

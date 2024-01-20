@@ -15,7 +15,7 @@ php init
 Проверить настройки БД (имя БД, логин, пароль):
 /path/to/yii-application/common/config/main-local.php
 
-Создать базу данных
+Создать базу данных (я создавал в MySQL Workbench)
 
 Проверить подключение к базе данных
 

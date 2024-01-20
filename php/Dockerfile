@@ -6,6 +6,7 @@ COPY --from=mlocati/php-extension-installer /usr/bin/install-php-extensions /usr
 
 # Установка расширений
 RUN install-php-extensions zip 
+RUN install-php-extensions pdo_mysql 
 
 # Установка composer
 RUN curl -sS https://getcomposer.org/installer | php && mv composer.phar /usr/local/bin/composer

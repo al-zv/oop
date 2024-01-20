@@ -10,7 +10,7 @@
 docker exec -it oop-php-1 bash
 
 В контейнере вводим команду:
-php init
+php init (это инициализация yii проекта в самом проекте есть файл init (в котором прописал скрипт php), также есть файл init.bat для windows)
 
 Проверить настройки БД (имя БД, логин, пароль):
 /path/to/yii-application/common/config/main-local.php

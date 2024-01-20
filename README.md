@@ -1,5 +1,8 @@
 Первые шаги по запуску проекта я делал в проекте zero
 
+Ссылка для запуска yii2-app-advanced:
+https://github.com/yiisoft/yii2-app-advanced/blob/master/docs/guide/start-installation.md
+
 Далее:
 
 Настроить конфигурацию: в этом проекте конфигурация находиться по адресу: ввести адрес
